@@ -5,7 +5,7 @@
 
 [![Website](https://img.shields.io/badge/🌐_siegle.cloud-00d4ff?style=for-the-badge&logoColor=white)](https://siegle.cloud)
 [![E-Mail](https://img.shields.io/badge/david@siegle.it-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:david@siegle.it)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidsiegle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/david-siegle)
 [![Verfügbar](https://img.shields.io/badge/✅_Verfügbar_für_Projekte-00d4ff?style=for-the-badge)](https://siegle.cloud#contact)
 
 
